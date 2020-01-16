@@ -1,0 +1,9 @@
+.game {
+  width: 600px;
+  height: 380px;
+  /* background-color: tomato; */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 40px;
+}
